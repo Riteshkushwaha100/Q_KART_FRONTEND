@@ -1,0 +1,9 @@
+
+> qkart-frontend-v2-hooks@0.1.0 test /home/crio-user/workspace/kushwaharitesh042-ME_QKART_FRONTEND_V2
+> react-scripts test --json --outputFile=testReport.json --watchAll=false "--watchAll=false" "--verbose"
+
+ ELIFECYCLE  Test failed. See above for more details.
+[INFO] Checking for optimal 'npm install'.
+[INFO] Continuing with execution of the actual command.
+[WARN] pnpm command exited with non-zero exit code.
+[WARN] Since a test run command is detected, won't fall back to using npm.
