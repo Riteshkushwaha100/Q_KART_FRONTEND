@@ -54,7 +54,7 @@ const Checkout = () => {
   const [selectedAddressId, setSelectedAddressId] = useState(null);
   const history = useHistory();
   const { enqueueSnackbar } = useSnackbar();
-
+  console.log("Check");
   useEffect(() => {
     console.log("Get Address");
     console.log(config.endpoint); // Make sure config.endpoint is defined
